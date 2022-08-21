@@ -47,7 +47,14 @@ SPECIFIC FEATURES OF SUBURBHUB
 3. Generate a result of what areas are most suitable for you to live in based on the information given when creating the profile.  
 4. Provides a detailed snapshot of what is available in these areas and where the individual’s wellbeing will benefit the most.  
 
-![](/Images/Home screen (1).png?raw=true)
+![](/Images/1.png?raw=true)
+![](/Images/2.png?raw=true)
+![](/Images/3.png?raw=true)
+![](/Images/4.png?raw=true)
+![](/Images/5.png?raw=true)
+![](/Images/6.png?raw=true)
+![](/Images/7.png?raw=true)
+![](/Images/8.png?raw=true)
 
 ##### Resources
 - [Study on green areas & subjective wellbeing: [Higher levels of greenness and biodiversity associate with greater subjective wellbeing in adults living in Melbourne, Australia - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1353829218307780)](https://www.sciencedirect.com/science/article/pii/S1353829218307780)
