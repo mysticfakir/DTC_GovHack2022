@@ -23,9 +23,9 @@ Our SuburbHub app alleviates some of the stress involved with moving, allowing c
 
 [The full discussion paper can be found here.](https://github.com/mysticfakir/DTC_GovHack2022/blob/main/Policy%20paper.pdf) 
 
-![](/Images/graph2.png?raw=true)
 
-![graph](https://github.com/mysticfakir/DTC_GovHack2022/blob/main/Images/graph.png?raw=true)
+
+![](/Images/graph2.png?raw=true)
 
 
 
@@ -47,7 +47,7 @@ SPECIFIC FEATURES OF SUBURBHUB
 3. Generate a result of what areas are most suitable for you to live in based on the information given when creating the profile.  
 4. Provides a detailed snapshot of what is available in these areas and where the individual’s wellbeing will benefit the most.  
 
-[screenshots of the wireframe]
+![](/Images/Home screen (1).png?raw=true)
 
 ##### Resources
 - [Study on green areas & subjective wellbeing: [Higher levels of greenness and biodiversity associate with greater subjective wellbeing in adults living in Melbourne, Australia - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1353829218307780)](https://www.sciencedirect.com/science/article/pii/S1353829218307780)
