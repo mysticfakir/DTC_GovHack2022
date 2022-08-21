@@ -26,6 +26,7 @@ Our SuburbHub app alleviates some of the stress involved with moving, allowing c
 
 The following graph represents the natural area shared by Canberran residents over time.
 
+
 ![](/Images/graph2.png?raw=true)
 
 
@@ -38,6 +39,7 @@ HOW SUBURBHUB SOLVES THIS PROBLEM
 -	Suburb Hub will encourage individuals to identify what they value in terms of residential dwellings, which also acts as valuable feedback to the government. The data collected from Suburb Hub can enable discussion making surrounding the allocation of funds towards public facilities and community spaces.
 
 Click the image below to view the video!!
+
 
 [<img src="https://img.youtube.com/vi/fgu_E_H0w54/mqdefault.jpg" width="50%">](https://www.youtube.com/watch?v=fgu_E_H0w54)
 
@@ -81,9 +83,13 @@ SPECIFIC FEATURES OF SUBURBHUB
 
 - [National Land Cover Account, 2020 | Australian Bureau of Statistics (abs.gov.au)](https://www.abs.gov.au/statistics/environment/environmental-management/national-land-cover-account/2020#data-download)
 
+- [ACT Population Projection | Open Data Portal](https://www.data.act.gov.au/People-and-Society/ACT-Population-Projection/nxxv-kkyq)
+
+- [Study on green areas & subjective wellbeing: Higher levels of greenness and biodiversity associate with greater subjective wellbeing in adults living in Melbourne, Australia - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1353829218307780)
+
   
 
 Link to the challenge we have entered 
 
-
+[Community wellbeing in the ACT](https://hackerspace.govhack.org/challenges/community_wellbeing_in_the_act)
 
