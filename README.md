@@ -25,6 +25,9 @@ Our SuburbHub app alleviates some of the stress involved with moving, allowing c
 
 ![](/Images/graph.png?raw=true)
 
+![graph](https://github.com/mysticfakir/DTC_GovHack2022/blob/main/Images/graph.png?raw=true)
+
+
 
 HOW SUBURBHUB SOLVES THIS PROBLEM 
 -	SuburbHub is an app that aims to help people decide which suburb is most ideal based on one's individual preferences such as location, accessibility, and availability of green spaces. 
