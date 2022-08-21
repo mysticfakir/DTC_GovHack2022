@@ -48,12 +48,19 @@ SPECIFIC FEATURES OF SUBURBHUB
 4. Provides a detailed snapshot of what is available in these areas and where the individual’s wellbeing will benefit the most.  
 
 ![](/Images/1.png?raw=true)
+
 ![](/Images/2.png?raw=true)
+
 ![](/Images/3.png?raw=true)
+
 ![](/Images/4.png?raw=true)
+
 ![](/Images/5.png?raw=true)
+
 ![](/Images/6.png?raw=true)
+
 ![](/Images/7.png?raw=true)
+
 ![](/Images/8.png?raw=true)
 
 ##### Resources
