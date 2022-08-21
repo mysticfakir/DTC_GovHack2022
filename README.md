@@ -23,7 +23,7 @@ Our SuburbHub app alleviates some of the stress involved with moving, allowing c
 
 [The full discussion paper can be found here.](https://github.com/mysticfakir/DTC_GovHack2022/blob/main/Policy%20paper.pdf) 
 
-![](/images/graph.png)
+![](/Images/graph.png)
 
 
 HOW SUBURBHUB SOLVES THIS PROBLEM 
