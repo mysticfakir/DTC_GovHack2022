@@ -34,10 +34,7 @@ HOW SUBURBHUB SOLVES THIS PROBLEM
 
 -	Suburb Hub will encourage individuals to identify what they value in terms of residential dwellings, which also acts as valuable feedback to the government. The data collected from Suburb Hub can enable discussion making surrounding the allocation of funds towards public facilities and community spaces.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ukkVd7bjleI" target="_blank">
- <img src="http://img.youtube.com/vi/ukkVd7bjleI/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
-
+[<img src="https://img.youtube.com/vi/ukkVd7bjleI/mqdefault.jpg" width="50%">](https://www.youtube.com/watch?v=ukkVd7bjleI)
 
 It is our intention that once our policy recommendations have been implemented, citizens will have equitable access to green space, removing the need to trade-off access to green spaces with other individual needs. At this time, the option to prioritise green space can be removed from the app.
 SPECIFIC FEATURES OF SUBURBHUB 
