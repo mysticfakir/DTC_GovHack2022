@@ -21,9 +21,8 @@ Our SuburbHub app alleviates some of the stress involved with moving, allowing c
 2. A government decentralisation strategy is established to decouple growth of Australian Public Service from the growth of the Australian Capital Territory
 3. All new developments are designed with green space to support a maximum capacity that will not be exceeded by urban intensification efforts.
 
-[The full discussion paper can be found here.]() 
+[The full discussion paper can be found here.](https://github.com/mysticfakir/DTC_GovHack2022/blob/main/Policy%20paper.pdf) 
 
-[Link to the Paper]
 [link to data that was used]
 [graph we have created]
 
@@ -35,8 +34,11 @@ HOW SUBURBHUB SOLVES THIS PROBLEM
 
 -	Suburb Hub will encourage individuals to identify what they value in terms of residential dwellings, which also acts as valuable feedback to the government. The data collected from Suburb Hub can enable discussion making surrounding the allocation of funds towards public facilities and community spaces.
 
+```
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+```
 
-[Video]
+
 It is our intention that once our policy recommendations have been implemented, citizens will have equitable access to green space, removing the need to trade-off access to green spaces with other individual needs. At this time, the option to prioritise green space can be removed from the app.
 SPECIFIC FEATURES OF SUBURBHUB 
 1. Create a profile using a variety of questions  
@@ -46,5 +48,26 @@ SPECIFIC FEATURES OF SUBURBHUB
 
 [screenshots of the wireframe]
 
+##### Resources
+- [Study on green areas & subjective wellbeing: [Higher levels of greenness and biodiversity associate with greater subjective wellbeing in adults living in Melbourne, Australia - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1353829218307780)](https://www.sciencedirect.com/science/article/pii/S1353829218307780)
+
+- [Would You Be Happier Living in a Greener Urban Area? A Fixed-Effects Analysis of Panel Data - M.P White et al. - Journal of Psychological Science, Volume: 24 issue: 6, p920-p928](https://journals.sagepub.com/doi/abs/10.1177/0956797612464659)
+
+- [ACT estimated resident population by SA3 (town centre) dataset](https://www.data.act.gov.au/Health/ACT-estimated-resident-population-by-SA3-town-cent/6qxi-jn4w)
+
+- [Exploring the expression of depression and distress in aboriginal men in central Australia: a qualitative study – Dr. Alex Brown - BMC Psychiatry Journal 2012; Vol 12 p97](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3441213/)
+
+- [APS Employment Statistics](https://www.apsc.gov.au/employment-data/aps-employment-data-31-december-2021/glance)
+
+- [APS Workforce Strategy 2025](https://www.apsc.gov.au/sites/default/files/2021-03/APS_Workforce_strategy.pdf)
+
+- [Lawson South Planning Study](https://www.planning.act.gov.au/__data/assets/pdf_file/0003/1223436/Lawson-South-Planning-Study-Final-Report-October-2009.pdf)
+
+- 
+
+  
+
 Link to the challenge we have entered 
+
+
 
