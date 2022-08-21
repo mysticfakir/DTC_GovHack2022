@@ -24,6 +24,7 @@ Our SuburbHub app alleviates some of the stress involved with moving, allowing c
 [The full discussion paper can be found here.](https://github.com/mysticfakir/DTC_GovHack2022/blob/main/Policy%20paper.pdf) 
 
 
+The following graph represents the natural area shared by Canberran residents over time.
 
 ![](/Images/graph2.png?raw=true)
 
@@ -78,7 +79,7 @@ SPECIFIC FEATURES OF SUBURBHUB
 
 - [Lawson South Planning Study](https://www.planning.act.gov.au/__data/assets/pdf_file/0003/1223436/Lawson-South-Planning-Study-Final-Report-October-2009.pdf)
 
-- 
+- [National Land Cover Account, 2020 | Australian Bureau of Statistics (abs.gov.au)](https://www.abs.gov.au/statistics/environment/environmental-management/national-land-cover-account/2020#data-download)
 
   
 
