@@ -38,7 +38,7 @@ HOW SUBURBHUB SOLVES THIS PROBLEM
 
 Click the GovHack image below to view the video!!
 
-[<img src="https://img.youtube.com/vi/ukkVd7bjleI/mqdefault.jpg" width="50%">](https://www.youtube.com/watch?v=ukkVd7bjleI)
+[<img src="https://img.youtube.com/vi/fgu_E_H0w54/mqdefault.jpg" width="50%">](https://www.youtube.com/watch?v=fgu_E_H0w54)
 
 It is our intention that once our policy recommendations have been implemented, citizens will have equitable access to green space, removing the need to trade-off access to green spaces with other individual needs. At this time, the option to prioritise green space can be removed from the app.
 SPECIFIC FEATURES OF SUBURBHUB 
